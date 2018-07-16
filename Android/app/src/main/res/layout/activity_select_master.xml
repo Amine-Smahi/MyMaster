@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_gradient_drawable"
+    tools:context=".SelectMasterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/master"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="45dp"
+            android:background="@drawable/waveffect"
+            android:foregroundGravity="center"
+            android:text="I'm a master"
+            android:textColor="#129B8E" />
+
+        <Button
+            android:id="@+id/bachelor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="6dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="45dp"
+            android:background="@drawable/waveffect"
+            android:foregroundGravity="center"
+            android:text="I'm a bachelor"
+            android:textColor="#129B8E" />
+
+    </LinearLayout>
+
+</RelativeLayout>
