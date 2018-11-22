@@ -25,7 +25,7 @@ The android app is made using native java as our main clients are android ones w
 
 ## Team
 
-[Amine Smai](https://github.com/Amine-Smahi)
+[Amine Smahi](https://github.com/Amine-Smahi)
 
 [Mohammed Benotmane](https://github.com/Mohammed-Benotmane)
 
