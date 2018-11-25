@@ -9,6 +9,8 @@ There are different approaches to getting machines to learn, from using basic de
 
 ![image](https://user-images.githubusercontent.com/24621701/48917959-e08bf900-ee89-11e8-92b8-a95ee4239ffb.png)
 
+MyMaster is a combination of an android app and a web api that uses a classification algorithm to help students choosing the best master for their profile.
+#### Steps
 1) We collected a dataset of differente successful master students in differente in masters with the skills they had to accomplish that.
 2) We used a classification algorithm to detect what classe the user belongs to.
 3) The user answers a serie of questions throw the android app, after every question the app collects the data it need to send to the Web API.
